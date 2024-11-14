@@ -1,6 +1,7 @@
 # Customer Churn Prediction
 
-This project aims to predict customer churn (whether a customer will leave) based on various features such as account details, customer satisfaction, and demographics. The dataset used contains customer information, and the task is to build machine learning models to predict the "Exited" column, which indicates if a customer has left.
+This project aims to predict customer churn (whether a customer will leave) based on various features such as account details, customer satisfaction, and demographics. The dataset used contains customer information, and the task is to build machine learning models to predict the "Exited" column, which indicates if a customer has left.  
+The dataset used can be found here: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 ## Dataset Overview
 
